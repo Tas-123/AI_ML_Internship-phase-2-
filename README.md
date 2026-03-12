@@ -91,6 +91,13 @@ The workflow can be adapted to other datasets and models, making it a flexible M
 
 ## How to Run
 
-1. Clone the repository:
-```bash
+## Clone the repository:
+bash
 git clone <your-repo-link>
+Install dependencies:
+
+pip install -r requirements.txt
+
+Open churn_pipeline.ipynb to view the full workflow.
+
+The final model is saved as churn_pipeline.pkl for predictions on new data.
