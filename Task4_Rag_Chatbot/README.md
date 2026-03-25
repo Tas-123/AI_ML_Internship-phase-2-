@@ -10,9 +10,13 @@ The chatbot uses **LangChain**, **FAISS**, and **HuggingFace Transformers** to r
 ## 🗂 Folder Structure
 Task4_RAG_Chatbot/
 │
+
 ├── app.py ← Streamlit app file
+
 ├── requirements.txt ← Project dependencies
+
 └── knowledge_base/
+
 └── ai_ml_notes.txt ← Text file containing AI/ML knowledge base
 
 ---
